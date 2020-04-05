@@ -1,2 +1,2 @@
-# pgp_aiml_projects
+# Machine learning projects
 Artificial intelligence and machine learning projects
